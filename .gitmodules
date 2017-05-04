@@ -1,0 +1,3 @@
+[submodule "practical-common-lisp/practicals"]
+	path = practical-common-lisp/practicals
+	url = git@github.com:waiyaki/practical-common-lisp-11.git
