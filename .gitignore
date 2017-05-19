@@ -2,3 +2,7 @@
 *.fasl
 *.lisp-temp
 .#*
+
+*.fas
+*.lib
+
