@@ -68,7 +68,7 @@
 
 (defun random-monster ()
   (let ((m (aref *monsters* (random (length *monsters*)))))
-    (if (monsters-dead m)
+    (if (monster-dead m)
         (random-monster)
         m)))
 
