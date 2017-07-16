@@ -102,3 +102,9 @@
                                 '((400 . 200)))
                         (loop repeat 3
                            collect (random 256)))))))
+
+(defmacro svg-to-file (filename &body body)
+  `(with-open-file (*standard-output* ,filename
+                                      :direction :output
+                                      :if-exists :supersede)
+     ,@body))
