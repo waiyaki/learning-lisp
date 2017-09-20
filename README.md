@@ -1,3 +1,3 @@
-# Learning Common Lisp
+# Learning Lisp
 
-Work-through for various Common Lisp resources
+Work-through for various Lisp resources
