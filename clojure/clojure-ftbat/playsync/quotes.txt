@@ -1,0 +1,88 @@
+===BEGIN QUOTE===<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.braveclojure.com/random-quote">here</a>.</p>
+</body></html>
+===END QUOTE===
+
+===BEGIN QUOTE===<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.braveclojure.com/random-quote">here</a>.</p>
+</body></html>
+===END QUOTE===
+
+===BEGIN QUOTE===<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.braveclojure.com/random-quote">here</a>.</p>
+</body></html>
+===END QUOTE===
+
+===BEGIN QUOTE===<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.braveclojure.com/random-quote">here</a>.</p>
+</body></html>
+===END QUOTE===
+
+===BEGIN QUOTE===Never, under any circumstances, take a sleeping pill and a laxative on the same night.
+-- Dave Barry 
+===END QUOTE===
+
+===BEGIN QUOTE===My favorite machine at the gym is the vending machine.
+-- Caroline Rhea 
+===END QUOTE===
+
+===BEGIN QUOTE===A stockbroker urged me to buy a stock that would triple its value every year. I told him, "At my age, I don't even buy green bananas."
+-- Claude Pepper 
+===END QUOTE===
+
+===BEGIN QUOTE===The human brain is a wonderful thing. It starts working the moment you are born, and never stops until you stand up to speak in public.
+-- George Jessel 
+===END QUOTE===
+
+===BEGIN QUOTE===People who read the tabloids deserve to be lied to.
+-- Jerry Seinfeld 
+===END QUOTE===
+
+===BEGIN QUOTE===If evolution really works, how come mothers only have two hands?
+-- Milton Berle 
+===END QUOTE===
+
+===BEGIN QUOTE===We've all heard that a million monkeys banging on a million typewriters will eventually reproduce the entire works of Shakespeare. Now, thanks to the Internet, we know this is not true.
+-- Robert Wilensky 
+===END QUOTE===
+
+===BEGIN QUOTE===Inside me there's a thin person struggling to get out, but I can usually sedate him with four or five cupcakes.
+-- Bob Thaves 
+===END QUOTE===
+
+=== BEGIN QUOTE ===
+I asked God for a bike, but I know God doesn't work that way. So I stole a bike and asked for forgiveness.
+-- Emo Philips 
+=== END QUOTE ===
+
+=== BEGIN QUOTE ===
+I told my wife the truth. I told her I was seeing a psychiatrist. Then she told me the truth: that she was seeing a psychiatrist, two plumbers, and a bartender.
+-- Rodney Dangerfield 
+=== END QUOTE ===
+
+=== BEGIN QUOTE ===
+People who read the tabloids deserve to be lied to.
+-- Jerry Seinfeld 
+=== END QUOTE ===
+
+=== BEGIN QUOTE ===
+Never, under any circumstances, take a sleeping pill and a laxative on the same night.
+-- Dave Barry 
+=== END QUOTE ===
+
