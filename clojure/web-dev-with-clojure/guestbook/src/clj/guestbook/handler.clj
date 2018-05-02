@@ -5,7 +5,8 @@
             [compojure.route :as route]
             [guestbook.env :refer [defaults]]
             [mount.core :as mount]
-            [guestbook.middleware :as middleware]))
+            [guestbook.middleware :as middleware]
+            [guestbook.routes.ws :refer [websocket-routes]]))
 
 (mount/defstate init-app
   :start ((or (:init defaults) identity))
@@ -14,11 +15,10 @@
 (mount/defstate app
   :start
   (middleware/wrap-base
-    (routes
-      (-> #'home-routes
-          (wrap-routes middleware/wrap-csrf)
-          (wrap-routes middleware/wrap-formats))
-      (route/not-found
-        (:body
-          (error-page {:status 404
-                       :title "page not found"}))))))
+   (routes #'websocket-routes
+           (-> #'home-routes
+               (wrap-routes middleware/wrap-csrf)
+               (wrap-routes middleware/wrap-formats))
+           (route/not-found
+            (:body (error-page {:status 404
+                                :title "page not found"}))))))
