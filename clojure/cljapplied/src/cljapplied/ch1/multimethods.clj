@@ -9,6 +9,13 @@
 
 (defrecord Store [,,,])
 
+(defrecord Ingredient
+    [name      ;; string
+     quantity  ;; amount
+     unit      ;; keyword
+     ])
+
+
 (defn cost-of [store ingredient] ,,,)
 
 (defmulti cost (fn [entity store] (class entity)))
