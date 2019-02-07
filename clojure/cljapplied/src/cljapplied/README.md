@@ -548,3 +548,8 @@ Using Reducer functions
 
 
 ## Chapter 7: Compose Your Application
+Some reasons to group code together:
+- functions work on same kind of data
+- data has a common scope or lifetime
+- the likelihood of change from external requirements is similar
+- resources needed are similar.
